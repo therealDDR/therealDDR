@@ -27,11 +27,11 @@ https://newbedev.com/is-it-possible-to-add-border-to-image-in-github-markdown
 
 - 🍊 Target Industry: **Computer Engineering**
 
-- 🧀 Interested in **Software Development**
+- 🧀 Interested in **Hardware and Software development**
 
 - 🥑 I’m currently working as a **contestant in SkillsUSA**
 
-- 🍇 Area of interest: **Pure mathematics, Physics, PCB design/prototyping, CAD design**
+- 🍇 Area of interest: **Pure mathematics, PCB design/prototyping, CAD design, Logic Circuits**
 
 <br>
 <br>
